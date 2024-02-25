@@ -1,0 +1,17 @@
+{
+    "name": "weirdan/i10747",
+    "autoload": {
+        "psr-4": {
+            "Weirdan\\I10747\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bruce Weirdan",
+            "email": "weirdan@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "psalm/phar": "^5.22"
+    }
+}
